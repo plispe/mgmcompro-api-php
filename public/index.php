@@ -1,7 +1,5 @@
 <?php
 
-phpinfo();
-
 /**
  * Main application file
  *
