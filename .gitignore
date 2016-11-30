@@ -1,0 +1,10 @@
+.env
+.phpmetrics
+
+temp/cache/stash/*
+temp/cache/templates/*
+temp/proxies/*
+vendor/*
+false
+
+!.gitkeep
