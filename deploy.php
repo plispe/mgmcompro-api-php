@@ -7,7 +7,7 @@ require 'recipe/common.php';
 // Configuration
 
 set('repository', 'https://github.com/plispe/mgmcompro-api-php.git');
-set('shared_files', []);
+set('shared_files', ['.env']);
 set('shared_dirs', []);
 set('writable_dirs', []);
 
